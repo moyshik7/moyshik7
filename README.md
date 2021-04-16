@@ -6,7 +6,9 @@ Nice to meet ya
   
   
 Here's some things I work with
-![](https://img.shields.io/badge/code-C++-informational?style=flat&logo=c%2b%2b&logoColor=white&color=ff6f61) ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff6f61) ![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=ff6f61)  
+![](https://img.shields.io/badge/code-C++-informational?style=flat&logo=c%2b%2b&logoColor=white&color=ff6f61)  
+![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff6f61)  
+![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=ff6f61)  
 ![](https://img.shields.io/badge/library-discord.js-informational?style=flat&logo=node&logoColor=white&color=ff6f61)
 <!--
 Here are some ideas to get you started:
