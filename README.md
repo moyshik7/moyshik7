@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 Replit user: [@moyshik](https://replit.com/@moyshik)  
 My discord bot: [Plubin](https://discord.com/oauth2/authorize?client_id=748160981766635540&scope=bot&permissions=51200)  
 Talk with me in discord: [Join support server](https://discord.gg/vrCZAnyhTh)  
+Stackoverflow Profile: [Akio](https://stackoverflow.com/users/14942783/akio)  
