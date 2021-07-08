@@ -19,7 +19,8 @@ Here's some things I'm working with
 ![React](https://img.shields.io/badge/library-React-informational?style=flat&logo=react&logoColor=white&color=ff6f61)
   
 ### Database:
-![Mongo DB](https://img.shields.io/badge/database-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=ff6f61) ![PostgreSQL](https://img.shields.io/badge/database-mongodb-informational?style=flat&logo=postgresql&logoColor=white&color=ff6f61) 
+![Mongo DB](https://img.shields.io/badge/database-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=ff6f61) 
+![PostgreSQL](https://img.shields.io/badge/database-postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=ff6f61) 
   
   
 ### OS:
