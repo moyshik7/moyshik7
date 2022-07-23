@@ -6,6 +6,7 @@
 
 <div id="badges" align="center">
     <img src="https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff6f61" />
+    <img src="https://img.shields.io/badge/code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=ff6f61" />
 </div>
 
 <div align="center">
