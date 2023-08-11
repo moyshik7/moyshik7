@@ -48,14 +48,20 @@
 <br/>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <a href="https://discord.com/users/584309117380853770">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/mahmud.oyshik">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/oii.seek/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
 </p>
 </div>
 
 <div align="center">
-    <h1>Hi I'm Akio</h1>
+    <h1>Hi I'm Oyshik</h1>
     <br/>
     <h2>Nice to meet ya</h2>
 </div>
