@@ -18,12 +18,9 @@
 </div>
 
 <div align="center">
-    <h1>Hi I'm Oyshik</h1>
-    <br/>
     <h2>Nice to meet ya</h2>
 </div>
 
-<br/>
 <br/>
 
 <div align="center">
