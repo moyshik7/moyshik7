@@ -25,11 +25,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=moyshik7&theme=github-dark-blue" style="width: 45%;"/>
-</div>
-<br/>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyshik7&layout=compact&theme=tokyonight&count_private=true" style="width: 45%;"/>
-</div>
